@@ -4,9 +4,6 @@ My name is Danil.
 I'm a Frontend Developer.
 <br>
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/pobirsky/badges/small)
-- 👀 I am interested in web development.
-- 🌱 I’m currently learning ReactJS and close stuff;
-- 🔭 Open to work, intership, mostly remotely.
 ### Contact me
 📧 Email: [pobirsky.d@gmail.com](mailto:pobirsky.d@gmail.com)
 📱 Telegram: [@pobirsky_d](https://t.me/pobirsky_d)
