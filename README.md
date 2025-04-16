@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Danil.
 <br>
-I'm a Frontend Developer.
-<br>
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/pobirsky/badges/small)
 ### Contact me
 📧 Email: [pobirsky.d@gmail.com](mailto:pobirsky.d@gmail.com)
